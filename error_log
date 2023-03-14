@@ -1,0 +1,4 @@
+[17-Dec-2020 05:04:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/immunoc3/public_html/soft/soft3/seace-ajax.php on line 1024
+[17-Dec-2020 05:04:16 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/immunoc3/public_html/soft/soft3/seace-ajax.php on line 1034
+[21-Jun-2021 19:06:12 UTC] PHP Warning:  fread(): Length parameter must be greater than 0 in /home1/immunoc3/public_html/soft/soft3/seace-excel.php on line 47
+[21-Jun-2021 19:06:13 UTC] PHP Warning:  fread(): Length parameter must be greater than 0 in /home1/immunoc3/public_html/soft/soft3/seace-excel.php on line 47
